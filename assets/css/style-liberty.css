@@ -14069,12 +14069,7 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-body img {
-  border-radius: 8px;
-  -webkit-border-radius: 8px;
-  -o-border-radius: 8px;
-  -moz-border-radius: 8px;
-}
+
 
 body a,
 button,
@@ -14952,6 +14947,10 @@ input:checked+.mode-container i.gg-moon {
     padding: 0;
     font-size: 28px;
   }
+}
+
+.banner-main{
+max-height: 760px;
 }
 
 .w3l-main-slider li {
