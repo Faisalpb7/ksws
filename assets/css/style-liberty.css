@@ -14968,6 +14968,9 @@ input:checked+.mode-container i.gg-moon {
   color: var(--para-color);
 }
 
+.font-rale{
+  font-family: 'Raleway', sans-serif;
+}
 .w3l-main-slider .banner-info-bg h6 {
   font-size: 62px;
   font-weight: 800;
@@ -15212,7 +15215,8 @@ input:checked+.mode-container i.gg-moon {
   }
 
   .w3l-main-slider .banner-info-bg p {
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 38px;
   }
 
   .logo-stroke{
@@ -15231,8 +15235,8 @@ input:checked+.mode-container i.gg-moon {
 
 @media (max-width: 568px) {
   .w3l-main-slider .banner-info-bg p {
-    font-size: 14px;
-    line-height: 21px;
+    font-size: 20px;
+    line-height: 26px;
   }
 
   .w3l-main-slider .banner-info-bg h5 {
